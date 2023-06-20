@@ -1,2 +1,7 @@
-
+table,th,tr,td,thead{
+	width:400px;
+	height:30px;
+	border:1px solid black;
+	border-collapse: collapse;
+}
 /* Your CSS Code here. */
